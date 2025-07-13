@@ -38,13 +38,21 @@ This is a fully responsive, theme-switchable Movie Streaming web application bui
 
 📁 Folder Structure
 src/
+
 ├── api/              # API calls (TMDB)
+
 ├── assets/           # Images, logos
+
 ├── components/       # Reusable components (Navbar, MovieCard, etc.)
+
 ├── context/          # Theme context
+
 ├── pages/            # Home, Trending, Favorites, Search
+
 ├── styles/           # Global and component styles
+
 ├── App.js            # Root component
+
 ├── index.js          # Entry point
 
 
