@@ -2,6 +2,8 @@
 A Netflix-like modern UI React application for exploring, favoriting, and AI-suggested movies.
 
 Can be accessed by live link `https://movie-streaming-web-app-kappa.vercel.app/`
+Use the demo Creditionals to login and check as it is ProtectedRoute
+
 📌 Table of Contents
 1. Project Overview  
 2. Tech Stack  
