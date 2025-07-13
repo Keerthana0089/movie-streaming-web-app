@@ -1,7 +1,7 @@
 🎬 Movie Streaming Web App
 A Netflix-like modern UI React application for exploring, favoriting, and AI-suggested movies.
 
-
+Can be accessed by live link `https://movie-streaming-web-app-kappa.vercel.app/`
 📌 Table of Contents
 1. Project Overview  
 2. Tech Stack  
@@ -58,7 +58,7 @@ cd movie-streaming-web-app
 npm install
 npm run dev
 
-Runs on `http://localhost:3000`
+Runs on `http://localhost:5173`
 
 
 
